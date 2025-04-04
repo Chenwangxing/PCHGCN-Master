@@ -4,7 +4,7 @@ The code of PCHGCN: Physically Constrained Higher-order Graph Convolutional Netw
 
 The Paper: [PCHGCN: Physically Constrained Higher-order Graph Convolutional Network for Pedestrian Trajectory Prediction](https://ieeexplore.ieee.org/document/10948459)
 
-The code and weights have been released, enjoy it！
+The code and weights have been released, enjoy it！ You can easily run the model！ To use the pretrained models at checkpoint/ and evaluate the models performance run:  test.py
 
 The specific code of the training part will be released after the paper is officially published!
 

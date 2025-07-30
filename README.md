@@ -32,3 +32,6 @@ You can easily run the model！ To use the pretrained models at checkpoint/ and 
 
 ## Acknowledgement
 Some codes are borrowed from Social-STGCNN, SGCN, IMGCN and DSTIGCN. We gratefully acknowledge the authors for posting their code.
+
+## Cite this article:
+Chen W, Sang H, Zhao Z. PCHGCN: Physically Constrained Higher-order Graph Convolutional Network for Pedestrian Trajectory Prediction[J]. IEEE Internet of Things Journal, 2025.
